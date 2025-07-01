@@ -9,7 +9,7 @@ Ele foi criado com o objetivo de praticar **Media Queries**, **layout adaptável
 
 ## 🌐 Demonstração
 
-🔗 [Veja o site publicado](https://jessica-fuentess.github.io/media-query)
+🔗 [Veja o site publicado](https://jessica-fuentess.github.io/media-query/)
 
 ---
 
