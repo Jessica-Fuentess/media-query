@@ -32,23 +32,16 @@ O projeto simula um site institucional simples com uma estrutura clara e conteú
 ---
 
 ## 📁 Estrutura do Projeto
-
-📂 media-query/
-
-├── 📁 imagens/
-
-│ └── faviconcss.ico # Ícone da aba do navegador
-
-├── 📄 index.html # Página principal
-
-├── 📄 06projeto1.css # Estilos principais (Mobile First)
-
-├── 📄 06projeto2.css # Estilos condicionais com media queries
-
-├── 📄 script.js # Lógica JS para controle do menu
-
-└── 📄 README.md # Documentação do projeto
-
+```bash
+media-query/
+├── imagens/
+│   └── faviconcss.ico    # Ícone da aba do navegador
+├── index.html            # Página principal
+├── 06projeto1.css        # Estilos principais (Mobile First)
+├── 06projeto2.css        # Estilos condicionais com media queries
+├── script.js             # Lógica JS para controle do menu
+└── README.md             # Documentação do projeto
+```
 ---
 
 ## 🧠 Como funciona o menu?
